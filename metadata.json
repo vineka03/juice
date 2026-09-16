@@ -1,0 +1,7 @@
+{
+  "name": "Zest & Press Juice Shop",
+  "description": "Modern cold-pressed juice shop workspace with interactive dashboard, task management, projects, progress analytics, and AI operations assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
